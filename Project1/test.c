@@ -1,28 +1,28 @@
-#include <stdio.h>
-
-int main(void)
-{
-	// ×Ö·ûÊý¾ÝÀàÐÍ => 1
-	printf("%zu\n", sizeof(char));
-
-	// ¶ÌÕûÐÍ => 2
-	printf("%zu\n", sizeof(short));
-
-	// ÕûÐÍ => 4
-	printf("%zu\n", sizeof(int));
-
-	// ³¤ÕûÐÍ => 4
-	printf("%zu\n", sizeof(long));
-
-	// ³¤³¤ÕûÐÍ => 8
-	printf("%zu\n", sizeof(long long));
-
-	// µ¥¾«¶È¸¡µã => 4
-	printf("%zu\n", sizeof(float));
-
-	// Ë«¾«¶È¸¡µã => 8
-	printf("%zu\n", sizeof(double));
-	
-
-	return 0;
-}
+//#include <stdio.h>
+//
+//int main(void)
+//{
+//	// å­—ç¬¦æ•°æ®ç±»åž‹ => 1
+//	printf("%zu\n", sizeof(char));
+//
+//	// çŸ­æ•´åž‹ => 2
+//	printf("%zu\n", sizeof(short));
+//
+//	// æ•´åž‹ => 4
+//	printf("%zu\n", sizeof(int));
+//
+//	// é•¿æ•´åž‹ => 4
+//	printf("%zu\n", sizeof(long));
+//
+//	// é•¿é•¿æ•´åž‹ => 8
+//	printf("%zu\n", sizeof(long long));
+//
+//	// å•ç²¾åº¦æµ®ç‚¹ => 4
+//	printf("%zu\n", sizeof(float));
+//
+//	// åŒç²¾åº¦æµ®ç‚¹ => 8
+//	printf("%zu\n", sizeof(double));
+//	
+//
+//	return 0;
+//}
