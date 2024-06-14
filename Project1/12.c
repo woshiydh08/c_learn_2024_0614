@@ -12,17 +12,21 @@ void test(void)
 	i++;
 }
 
+extern int add(int a, int b);
+
 int main(void)
 {
 	// static关键字
 	// 在C语言中, static关键字是用来修饰变量和函数的
 
-	int i = 0;
-	while (i < 10)
-	{
-		test();
-		i++;
-	}
+	// int i = 0;
+	// while (i < 10)
+	// {
+	// 	test();
+	// 	i++;
+	// }
+
+	printf("%d\n", add(1, 2));
 
 	return 0;
 }
