@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01.c" />
+    <ClCompile Include="02.c" />
+    <ClCompile Include="add.c" />
+    <ClCompile Include="add2.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
