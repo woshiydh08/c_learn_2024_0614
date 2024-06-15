@@ -145,6 +145,7 @@
     <ClCompile Include="16.c" />
     <ClCompile Include="17.c" />
     <ClCompile Include="18.c" />
+    <ClCompile Include="19.c" />
     <ClCompile Include="add.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
