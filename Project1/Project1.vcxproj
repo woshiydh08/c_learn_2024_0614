@@ -146,8 +146,13 @@
     <ClCompile Include="17.c" />
     <ClCompile Include="18.c" />
     <ClCompile Include="19.c" />
+    <ClCompile Include="20.c" />
     <ClCompile Include="add.c" />
+    <ClCompile Include="max_and_min.c" />
     <ClCompile Include="test.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max_and_min.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
