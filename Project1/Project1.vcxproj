@@ -149,6 +149,7 @@
     <ClCompile Include="20.c" />
     <ClCompile Include="21.c" />
     <ClCompile Include="22.c" />
+    <ClCompile Include="23.c" />
     <ClCompile Include="add.c" />
     <ClCompile Include="max_and_min.c" />
     <ClCompile Include="test.c" />
