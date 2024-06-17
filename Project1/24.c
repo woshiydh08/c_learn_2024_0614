@@ -1,3 +1,4 @@
+/**
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
@@ -29,3 +30,4 @@ int main(void)
 	printf("after change：a = %d, b = %d \n", a, b);
 	return 0;
 }
+*/
