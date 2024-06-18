@@ -1,3 +1,4 @@
+/**
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
@@ -47,3 +48,4 @@ int main(void)
 	printf("%s %d %.2lf\n", stu.name, stu.age, stu.score);
 	return 0;
 }
+*/
