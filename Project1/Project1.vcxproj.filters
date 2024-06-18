@@ -102,6 +102,9 @@
     <ClCompile Include="26.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max_and_min.h">
