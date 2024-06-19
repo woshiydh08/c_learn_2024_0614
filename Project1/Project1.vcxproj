@@ -157,8 +157,9 @@
     <ClCompile Include="28.c" />
     <ClCompile Include="29.c" />
     <ClCompile Include="30.c" />
-	<ClCompile Include="31.c" />
-	<ClCompile Include="32.c" />
+    <ClCompile Include="31.c" />
+    <ClCompile Include="32.c" />
+    <ClCompile Include="33.c" />
     <ClCompile Include="add.c" />
     <ClCompile Include="max_and_min.c" />
     <ClCompile Include="test.c" />
