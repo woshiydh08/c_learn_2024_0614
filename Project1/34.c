@@ -1,3 +1,4 @@
+/**
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
@@ -23,3 +24,4 @@ int main(void)
 	int *parr[2] = {&a, pb, pc};
 	return 0;
 }
+*/

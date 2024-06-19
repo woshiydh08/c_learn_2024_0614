@@ -161,6 +161,7 @@
     <ClCompile Include="32.c" />
     <ClCompile Include="33.c" />
     <ClCompile Include="34.c" />
+    <ClCompile Include="35.c" />
     <ClCompile Include="add.c" />
     <ClCompile Include="max_and_min.c" />
     <ClCompile Include="test.c" />
